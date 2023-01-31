@@ -30,11 +30,11 @@
 
     <!-- Global Dependencies -->
     <dependencies>
-        <dependency>
+        <!--<dependency>
             <groupId>com.cv</groupId>
             <artifactId>encoder</artifactId>
             <version>1.0-SNAPSHOT</version>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
